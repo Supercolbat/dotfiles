@@ -7,13 +7,14 @@
     <img alt="Repo size" src="https://img.shields.io/github/repo-size/Supercolbat/dotfiles?style=flat-square&color=2f5f4d&labelColor=222">
 </p>
 <p align="center">  
-    <a href="#System_Information"><img alt="System Information" src="https://img.shields.io/badge/System%20Information-4d8570?style=for-the-badge" target="_blank"></a>
-    <a href="#Screenshots"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-4d8570?style=for-the-badge" target="_blank"></a>
-    <a href="#Installation"><img alt="Information" src="https://img.shields.io/badge/Installation-4d8570?style=for-the-badge" target="_blank"></a>
-    <a href="#Notes"><img alt="Notes" src="https://img.shields.io/badge/Notes-4d8570?style=for-the-badge" target="_blank"></a>
+    <a href="#computer-system-information"><img alt="System Information" src="https://img.shields.io/badge/System%20Information-4d8570?style=for-the-badge" target="_blank"></a>
+    <a href="#camera-screenshots"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-4d8570?style=for-the-badge" target="_blank"></a>
+    <a href="#-installation"><img alt="Information" src="https://img.shields.io/badge/Installation-4d8570?style=for-the-badge" target="_blank"></a>
+    <a href="#credits"><img alt="Notes" src="https://img.shields.io/badge/Notes-4d8570?style=for-the-badge" target="_blank"></a>
+    <a href="#memo-notes"><img alt="Notes" src="https://img.shields.io/badge/Notes-4d8570?style=for-the-badge" target="_blank"></a>
 </p>
 
-Hello! These are the configs I use in my Fedora system. I've been taking [inspiration](#Credits) from other people's setups and dotfiles and ended up producing this mess.
+Hello! These are the configs I use in my Fedora system. I've been taking [inspiration](#credits) from other people's setups and dotfiles and ended up producing this mess.
 
 While I may not be the most creative or artistic person, I still enjoy the challenge of customizing my desktop. However, as my first rice, things are going to be a bit rusty.
 
@@ -54,13 +55,14 @@ Any and all contributions are welcome!
   * [tty-clock](https://github.com/xorg62/tty-clock)
   * [peaclock](https://github.com/octobanana/peaclock)
     * plan on using this one but i cant compile it :(
-* **Eyecandy**
+* **Decoration**
   * [Bash pipes](https://github.com/pipeseroni/pipes.sh )
   * [CMatrix](https://github.com/abishekvashok/cmatrix)
 
 ## :camera: Screenshots
 
 ![screenshot of my current desktop](https://i.ibb.co/42zxxXb/1.png)
+dont mind the horrible excuse for a workspace module (polybar) at the bottom. i'll fix it some day
 
 ## 🔧 Installation
 
@@ -110,7 +112,7 @@ cp -r wallpapers ~
 
 [[bspwm] Pretty Nordy & Rusty (First rice)](https://www.reddit.com/r/unixporn/comments/oayp27/bspwm_pretty_nordy_rusty_first_rice/)
 * Main inspiration for the theme (most notably the terminal). Change the color theme a bit and boom!
-* also for a first rice, ***thats amazing***
+* would like to point out that ***their first rice looks amazing*** compared to mine :(
 
 [bspwm-dotfiles](https://github.com/AP2008/bspwm-dotfiles)
 * I tweaked it's rofi config a tiny bit to make it fit better with my desktop
