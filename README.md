@@ -19,8 +19,7 @@ While I may not be the most creative or artistic person, I still enjoy the chall
 
 Any and all contributions are welcome!
 
-> *"time to show the whole world how messy i am"*
-> ~ \~ me
+> *"time to show the whole world how messy i am"* ~ me
 
 ## :computer: System Information
 
@@ -44,7 +43,7 @@ Any and all contributions are welcome!
   * Firefox
   * [Brave Browser](https://github.com/brave/brave-browser)
 * **File manager**: Nautilus (GNOME default)
-* **Screenshot Tool**: [Flameshot](https://github.com/flameshot-org/flameshot) (excluded from configs)
+* **Screenshot Tool**: [Flameshot](https://github.com/flameshot-org/flameshot)
 
 ### Terminal applications
 * **Fetch**:
