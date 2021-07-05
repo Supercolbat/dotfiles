@@ -1,0 +1,9 @@
+# Self explanatory
+test.sh
+.vim/
+
+# Backup polybar config
+.config/polybar/config2
+
+# It's not ready yet ._.
+INSTALL.sh
