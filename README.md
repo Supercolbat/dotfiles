@@ -25,7 +25,7 @@ Any and all contributions are welcome!
 ## :computer: System Information
 
 * **Linux Distribution:** Fedora Linux
-* **Display Server**: X.Org
+* **Display Server**: [X.Org](https://x.org/wiki)
 * **Window Manager:** [BSPWM](https://github.com/baskerville/bspwm)
 * **Window Compositor**: [Picom-Ibhagwan](https://github.com/ibhagwan/picom)
 * **Application Launcher:** [rofi](https://github.com/davatorium/rofi)
@@ -42,7 +42,7 @@ Any and all contributions are welcome!
   * [NeoVIM](https://github.com/neovim/neovim)
 * **Browsers**
   * Firefox
-  * Brave Browser
+  * [Brave Browser](https://github.com/brave/brave-browser)
 * **File manager**: Nautilus (GNOME default)
 * **Screenshot Tool**: [Flameshot](https://github.com/flameshot-org/flameshot) (excluded from configs)
 
@@ -57,7 +57,7 @@ Any and all contributions are welcome!
     * plan on using this one but i cant compile it :(
 * **Eyecandy**
   * [Bash pipes](https://github.com/pipeseroni/pipes.sh )
-  * **CMatrix**
+  * [CMatrix](https://github.com/abishekvashok/cmatrix)
 
 ## :camera: Screenshots
 
