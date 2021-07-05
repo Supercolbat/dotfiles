@@ -68,7 +68,7 @@ Any and all contributions are welcome!
 
 ### Manual:
 
-Install the required packages.
+Install the required packages
 
 ```bash
 sudo dnf install bspwm sxhkd polybar dunst zsh alacritty neovim -y
@@ -98,12 +98,12 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
-Copy the configs from the repo into your config folder.
-
+Copy the configs and folders
 ```bash
 git clone https://github.com/Supercolbat/dotfiles
 cd dotfiles
 cp -r .config/* ~/.config
+cp -r wallpapers ~
 ```
 
 ## Credits
