@@ -12,7 +12,7 @@ if ps -A | grep picom; then
 fi
 ~/src/picom/build/src/picom &
 
-feh --no-fehbg --bg-scale $HOME/wallpaper/forest.jpg
+feh --no-fehbg --bg-scale $HOME/wallpapers/forest.jpg
 
 
 bspc monitor -d I II III IV V VI VII VIII IX X
