@@ -2,30 +2,30 @@
     <img alt="dotfiles title" src="https://i.ibb.co/hcrTc8F/dotfiles-cover.png">
 </p>
 <p align="center">
-    <img alt="Fedora 34" src="https://img.shields.io/badge/Fedora-v34-green.svg?style=flat-square&logo=Fedora&logoColor=white&color=5a927d&labelColor=222">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/Supercolbat/dotfiles?style=flat-square&color=437864&labelColor=222">
-    <img alt="Repo size" src="https://img.shields.io/github/repo-size/Supercolbat/dotfiles?style=flat-square&color=2f5f4d&labelColor=222">
+    <img alt="Fedora 34" src="https://img.shields.io/badge/Fedora-v34-green.svg?style=flat-square&logo=Fedora&logoColor=white&color=396d5a&labelColor=222">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/Supercolbat/dotfiles?style=flat-square&color=396d5a&labelColor=222">
+    <img alt="Repo size" src="https://img.shields.io/github/repo-size/Supercolbat/dotfiles?style=flat-square&color=396d5a&labelColor=222">
 </p>
 <p align="center">  
-    <a href="#System_Information"><img alt="System Information" src="https://img.shields.io/badge/System%20Information-4d8570?style=for-the-badge" target="_blank"></a>
-    <a href="#Screenshots"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-4d8570?style=for-the-badge" target="_blank"></a>
-    <a href="#Installation"><img alt="Information" src="https://img.shields.io/badge/Installation-4d8570?style=for-the-badge" target="_blank"></a>
-    <a href="#Notes"><img alt="Notes" src="https://img.shields.io/badge/Notes-4d8570?style=for-the-badge" target="_blank"></a>
+    <a href="#computer-system-information"><img alt="System Information" src="https://img.shields.io/badge/System%20Information-2f5f4d?style=for-the-badge" target="_blank"></a>
+    <a href="#camera-screenshots"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2f5f4d?style=for-the-badge" target="_blank"></a>
+    <a href="#-installation"><img alt="Information" src="https://img.shields.io/badge/Installation-2f5f4d?style=for-the-badge" target="_blank"></a>
+    <a href="#credits"><img alt="Notes" src="https://img.shields.io/badge/Notes-2f5f4d?style=for-the-badge" target="_blank"></a>
+    <a href="#memo-notes"><img alt="Notes" src="https://img.shields.io/badge/Notes-2f5f4d?style=for-the-badge" target="_blank"></a>
 </p>
 
-Hello! These are the configs I use in my Fedora system. I've been taking [inspiration](#Credits) from other people's setups and dotfiles and ended up producing this mess.
+Hello! These are the configs I use in my Fedora system. I've been taking [inspiration](#credits) from other people's setups and dotfiles and ended up producing this mess.
 
 While I may not be the most creative or artistic person, I still enjoy the challenge of customizing my desktop. However, as my first rice, things are going to be a bit rusty.
 
 Any and all contributions are welcome!
 
-> *"time to show the whole world how messy i am"*
-> ~ \~ me
+> *"time to show the whole world how messy i am"* ~ me
 
 ## :computer: System Information
 
 * **Linux Distribution:** Fedora Linux
-* **Display Server**: X.Org
+* **Display Server**: [X.Org](https://x.org/wiki)
 * **Window Manager:** [BSPWM](https://github.com/baskerville/bspwm)
 * **Window Compositor**: [Picom-Ibhagwan](https://github.com/ibhagwan/picom)
 * **Application Launcher:** [rofi](https://github.com/davatorium/rofi)
@@ -42,9 +42,9 @@ Any and all contributions are welcome!
   * [NeoVIM](https://github.com/neovim/neovim)
 * **Browsers**
   * Firefox
-  * Brave Browser
+  * [Brave Browser](https://github.com/brave/brave-browser)
 * **File manager**: Nautilus (GNOME default)
-* **Screenshot Tool**: [Flameshot](https://github.com/flameshot-org/flameshot) (excluded from configs)
+* **Screenshot Tool**: [Flameshot](https://github.com/flameshot-org/flameshot)
 
 ### Terminal applications
 * **Fetch**:
@@ -55,13 +55,14 @@ Any and all contributions are welcome!
   * [tty-clock](https://github.com/xorg62/tty-clock)
   * [peaclock](https://github.com/octobanana/peaclock)
     * plan on using this one but i cant compile it :(
-* **Eyecandy**
+* **Decoration**
   * [Bash pipes](https://github.com/pipeseroni/pipes.sh )
-  * **CMatrix**
+  * [CMatrix](https://github.com/abishekvashok/cmatrix)
 
 ## :camera: Screenshots
 
 ![screenshot of my current desktop](https://i.ibb.co/42zxxXb/1.png)
+dont mind the horrible excuse for a workspace module (polybar) at the bottom. i'll fix it some day
 
 ## 🔧 Installation
 
@@ -69,7 +70,7 @@ Any and all contributions are welcome!
 
 ### Manual:
 
-Install the required packages.
+Install the required packages
 
 ```bash
 sudo dnf install bspwm sxhkd polybar dunst zsh alacritty neovim -y
@@ -99,19 +100,19 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
-Copy the configs from the repo into your config folder.
-
+Copy the configs and folders
 ```bash
 git clone https://github.com/Supercolbat/dotfiles
 cd dotfiles
 cp -r .config/* ~/.config
+cp -r wallpapers ~
 ```
 
 ## Credits
 
 [[bspwm] Pretty Nordy & Rusty (First rice)](https://www.reddit.com/r/unixporn/comments/oayp27/bspwm_pretty_nordy_rusty_first_rice/)
 * Main inspiration for the theme (most notably the terminal). Change the color theme a bit and boom!
-* also for a first rice, ***thats amazing***
+* would like to point out that their **first** rice ***looks amazing*** compared to mine (which is my first rice) :(
 
 [bspwm-dotfiles](https://github.com/AP2008/bspwm-dotfiles)
 * I tweaked it's rofi config a tiny bit to make it fit better with my desktop
