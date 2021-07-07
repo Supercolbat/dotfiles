@@ -12,9 +12,8 @@
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- #
 
 
-# IMPORTANT: Use $HOME instead of ~
-# For some reason, bash doesn't it when you use the latter
-WorkDir="$HOME/.dotfiles"
+# I renamed the folder from 'dotfiles' to '.dotfiles'
+WorkDir=~/.dotfiles
 
 # Target files/folders
 # Will copy starting from the $HOME folder
@@ -44,11 +43,13 @@ Files=(
 )
 
 echo "[-] Clearing out repo folders"
-for folder in "${Folders[@]}"; do
+for folder in ${Folders[@]}; do
     if [ -d $WorkDir/$folder ]
     then
         echo "deleting $WorkDir/$folder/*"
-        rm -rf $WorkDir/$folder/*  # skip write-protected deletion prompt
+        # reason for -f: skip write-protected deletion prompt
+        #                from files in .git folders
+        rm -rf $WorkDir/$folder/*
     else
         echo "creating $WorkDir/$folder"
         mkdir $WorkDir/$folder
@@ -58,7 +59,7 @@ done
 echo
 
 echo "[-] Clearing out repo files"
-for file in "${Files[@]}"; do
+for file in ${Files[@]}; do
     if [ -f $WorkDir/$file ]
     then
         echo "deleting $WorkDir/$file"
@@ -73,7 +74,7 @@ echo
 
 
 echo "[+] Copying folders"
-for folder in "${Folders[@]}"; do
+for folder in ${Folders[@]}; do
     echo "copying $HOME/$folder to $WorkDir/$folder"
     cp -r $HOME/$folder/* $WorkDir/$folder
 done
@@ -81,13 +82,29 @@ done
 echo
 
 echo "[+] Copying files"
-for file in "${Files[@]}"; do
+for file in ${Files[@]}; do
     echo "copying $HOME/$file to $WorkDir/$file"
     cp $HOME/$file $WorkDir/$file
 done
 
 echo
 
-echo "[-] Clearing out playlists"
-rm "$WORKDIR/.config/mpd/playlists/*"
+# ========================= #
+# = MPD specific commands = #
+# ========================= #
 
+echo "[-] MPD: Clearing out playlists"
+for file in $WorkDir/.config/mpd/playlists/*; do
+    echo "deleting playlist: $file"
+    rm $file
+done
+
+echo
+
+files=(log mpd.pid mpdstate sticker.sql)
+
+echo "[-] MPD: Resetting temporary MPD files"
+for file in ${files[@]}; do
+    echo "clearing $WorkDir/.config/mpd/$file"
+    truncate -s 0 "$WorkDir/.config/mpd/$file"
+done
