@@ -37,5 +37,6 @@ bspc rule -a spotify desktop='^9'
 # Fix cursor default
 xsetroot -cursor_name left_ptr &
 
-# Fix problem with Java applications
-# wmname LG3D
+
+# Start-up applications/scripts
+./scripts/welcome.sh

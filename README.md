@@ -40,6 +40,7 @@ Any and all contributions are welcome!
 * **Text Editors:**
   * [Sublime Text 4](https://www.sublimetext.com)
   * [NeoVIM](https://github.com/neovim/neovim)
+  * [Doom EMACS](https://github.com/hlissner/doom-emacs)
 * **Browsers**
   * Firefox
   * [Brave Browser](https://github.com/brave/brave-browser)
@@ -61,8 +62,11 @@ Any and all contributions are welcome!
 
 ## :camera: Screenshots
 
-![screenshot of my current desktop](https://i.ibb.co/42zxxXb/1.png)
-dont mind the horrible excuse for a workspace module (polybar) at the bottom. i'll fix it some day
+![screenshot of my current desktop](https://i.ibb.co/80mMhwH/image.png)
+NOTES:
+* the left round module on the workspace bar (bottom) has a 2-pixel gap
+* when you highlight an edge workspace, the rounded edge won't highlight because its a seperate module.
+* the mpd module looks really dumb when there is no song playing
 
 ## 🔧 Installation
 
@@ -73,7 +77,7 @@ dont mind the horrible excuse for a workspace module (polybar) at the bottom. i'
 Install the required packages
 
 ```bash
-sudo dnf install bspwm sxhkd polybar dunst zsh alacritty neovim -y
+sudo dnf install bspwm sxhkd polybar dunst zsh alacritty neovim mpd mpc ncmpcpp -y
 
 # install picom
 sudo dnf install dbus-devel gcc git libconfig-devel libdrm-devel libev-devel libX11-devel libX11-xcb libXext-devel libxcb-devel mesa-libGL-devel meson pcre-devel pixman-devel uthash-devel xcb-util-image-devel xcb-util-renderutil-devel xorg-x11-proto-devel
@@ -108,6 +112,9 @@ cp -r .config/* ~/.config
 cp -r wallpapers ~
 ```
 
+#### Other steps
+For **mpd** (music player daemon) to work, you have to put music in your \~/Music directory. You can change where mpd will look by changing `music_directory` in `~/.config/mpd/mpd.conf`.
+
 ## Credits
 
 [[bspwm] Pretty Nordy & Rusty (First rice)](https://www.reddit.com/r/unixporn/comments/oayp27/bspwm_pretty_nordy_rusty_first_rice/)
@@ -128,7 +135,7 @@ cp -r wallpapers ~
 The amazing people at [r/unixporn](https://www.reddit.com/r/unixporn)
 * It's shocking to see how good people can make their desktops look. If I see a rice that I really like, I'll try to implement that into my desktop.
 
-*more coming soon :P*
+*more coming soon:tm: :P*
 
 # :memo: Notes
 

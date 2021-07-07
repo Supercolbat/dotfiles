@@ -1,0 +1,337 @@
+Jul 07 11:36 : exception: Failed to open '/home/supercolbat/.config/mpd/mpdstate': No such file or directory
+Jul 07 11:36 : update: added /Battle Cats Music - Intro Theme-NRAbMFCRKPM.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Main Theme-eMR2EHrv5dg.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Menu Theme-QHuBSUO75nA.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Battle Theme #1 Default-JURtuwD9TsU.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Battle Theme #2-u8UtG2mG0ns.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Battle Theme #3--NPqCu4DyAM.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Battle Theme #4-Zd5lZALpfuM.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Battle Theme #5 Rush-slIeSefIsPU.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Battle Theme #6 Moon (Final Stage)-5yyyqU-Y7lA.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Battle Theme #7 O Fortuna-PmvjYXQufsk.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Battle Theme #8 Challenge Mode-uvvx0_6wpuo.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Ending Theme-jf2nSwZn-aE.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Into The Future Theme #1-LZe7fJ44ZCg.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Into The Future Theme #2-y9mVXRYEkv4.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Into The Future Theme #3-JeKuA9pM0H0.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Gamatoto-CTX-cVIE5Mk.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Catclaw Dojo-H4wKJgXCncs.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Cats of the Cosmos Theme #1-GMSQ0BQ2au4.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Cats of the Cosmos Theme #2-WT794ONnJK8.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Cats of the Cosmos Theme #3-Q3zRS5yip5s.mp3
+Jul 07 11:36 : update: added /Battle Cats Music - Cats of the Cosmos Theme #4 The Big Bang (Final Stage)-D-vaRmzaGUo.mp3
+Jul 07 11:36 : update: added /DJ Okawari - Flower Dance - 2010-AULG4MoYxQk.mp3
+Jul 07 11:36 : update: added /稲葉曇『ラグトレイン』Vo. 歌愛ユキ-UnIhRpIT7nc.mp3
+Jul 07 11:36 : update: added /Ajoura - The SCP Foundation Main Theme-YJaeH8ffl_M.mp3
+Jul 07 11:36 : update: added /Superstitious Foundation (SCP original song)-6kj40pb4Os8.mp3
+Jul 07 11:36 : update: added /The Final Flash of Existence (SCP - Secret Laboratory Main Theme)-SCcb2bfJLBg.mp3
+Jul 07 11:36 : update: added /KillerBlood／The Black Case-SZ2lN3ac6WQ.mp3
+Jul 07 11:36 : update: added /LEMMiNO - Cipher (BGM)-b0q5PR1xpA0.mp3
+Jul 07 11:36 : update: added /TempleOS Hymn Risen (Remix) - Dave Eddy-IdYMA6hY_74.mp3
+Jul 07 11:36 : avahi: Service 'Music Player @ stationx' successfully established.
+Jul 07 11:36 : exception: Failed to read mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:37 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:38 : player: played "Battle Cats Music - Battle Theme #1 Default-JURtuwD9TsU.mp3"
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:39 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:40 : player: played "Battle Cats Music - Menu Theme-QHuBSUO75nA.mp3"
+Jul 07 11:40 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:40 : player: played "Battle Cats Music - Main Theme-eMR2EHrv5dg.mp3"
+Jul 07 11:40 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:40 : player: played "Battle Cats Music - Intro Theme-NRAbMFCRKPM.mp3"
+Jul 07 11:40 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:40 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:40 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:40 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:40 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:40 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:40 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:41 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:41 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:41 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:41 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:41 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:42 : player: played "Battle Cats Music - Battle Theme #1 Default-JURtuwD9TsU.mp3"
+Jul 07 11:44 : player: played "Battle Cats Music - Battle Theme #2-u8UtG2mG0ns.mp3"
+Jul 07 11:46 : player: played "Battle Cats Music - Battle Theme #3--NPqCu4DyAM.mp3"
+Jul 07 11:46 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:47 : player: played "Battle Cats Music - Battle Theme #4-Zd5lZALpfuM.mp3"
+Jul 07 11:47 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:49 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:49 : player: played "Battle Cats Music - Battle Theme #5 Rush-slIeSefIsPU.mp3"
+Jul 07 11:51 : player: played "Battle Cats Music - Battle Theme #6 Moon (Final Stage)-5yyyqU-Y7lA.mp3"
+Jul 07 11:51 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:53 : player: played "Battle Cats Music - Battle Theme #7 O Fortuna-PmvjYXQufsk.mp3"
+Jul 07 11:53 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jul 07 11:53 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 11:55 : player: played "Battle Cats Music - Battle Theme #8 Challenge Mode-uvvx0_6wpuo.mp3"
+Jul 07 11:56 : player: played "Battle Cats Music - Catclaw Dojo-H4wKJgXCncs.mp3"
+Jul 07 11:57 : exception: Failed to decode /home/supercolbat/Music/Battle Cats Music - Cats of the Cosmos Theme #2-WT794ONnJK8.mp3; Failed to open '/home/supercolbat/Music/Battle Cats Music - Cats of the Cosmos Theme #2-WT794ONnJK8.mp3': No such file or directory
+Jul 07 11:57 : player: played "Battle Cats Music - Cats of the Cosmos Theme #1-GMSQ0BQ2au4.mp3"
+Jul 07 11:57 : player: played "Battle Cats Music - Cats of the Cosmos Theme #2-WT794ONnJK8.mp3"
+Jul 07 11:57 : exception: Failed to decode /home/supercolbat/Music/Battle Cats Music - Cats of the Cosmos Theme #2-WT794ONnJK8.mp3; Failed to open '/home/supercolbat/Music/Battle Cats Music - Cats of the Cosmos Theme #2-WT794ONnJK8.mp3': No such file or directory
+Jul 07 11:57 : exception: Failed to decode /home/supercolbat/Music/Battle Cats Music - Cats of the Cosmos Theme #3-Q3zRS5yip5s.mp3; Failed to open '/home/supercolbat/Music/Battle Cats Music - Cats of the Cosmos Theme #3-Q3zRS5yip5s.mp3': No such file or directory
+Jul 07 11:57 : player: played "Battle Cats Music - Cats of the Cosmos Theme #2-WT794ONnJK8.mp3"
+Jul 07 11:57 : exception: Failed to decode /home/supercolbat/Music/Battle Cats Music - Cats of the Cosmos Theme #3-Q3zRS5yip5s.mp3; Failed to open '/home/supercolbat/Music/Battle Cats Music - Cats of the Cosmos Theme #3-Q3zRS5yip5s.mp3': No such file or directory
+Jul 07 11:57 : player: played "Battle Cats Music - Cats of the Cosmos Theme #3-Q3zRS5yip5s.mp3"
+Jul 07 11:57 : exception: Failed to decode /home/supercolbat/Music/Battle Cats Music - Cats of the Cosmos Theme #4 The Big Bang (Final Stage)-D-vaRmzaGUo.mp3; Failed to open '/home/supercolbat/Music/Battle Cats Music - Cats of the Cosmos Theme #4 The Big Bang (Final Stage)-D-vaRmzaGUo.mp3': No such file or directory
+Jul 07 11:57 : player: played "Battle Cats Music - Cats of the Cosmos Theme #4 The Big Bang (Final Stage)-D-vaRmzaGUo.mp3"
+Jul 07 11:57 : exception: Failed to decode /home/supercolbat/Music/Battle Cats Music - Into The Future Theme #1-LZe7fJ44ZCg.mp3; Failed to open '/home/supercolbat/Music/Battle Cats Music - Into The Future Theme #1-LZe7fJ44ZCg.mp3': No such file or directory
+Jul 07 11:57 : player: played "Battle Cats Music - Into The Future Theme #1-LZe7fJ44ZCg.mp3"
+Jul 07 11:57 : exception: Failed to decode /home/supercolbat/Music/Battle Cats Music - Into The Future Theme #2-y9mVXRYEkv4.mp3; Failed to open '/home/supercolbat/Music/Battle Cats Music - Into The Future Theme #2-y9mVXRYEkv4.mp3': No such file or directory
+Jul 07 11:57 : player: played "Battle Cats Music - Into The Future Theme #2-y9mVXRYEkv4.mp3"
+Jul 07 11:57 : exception: Failed to decode /home/supercolbat/Music/Battle Cats Music - Into The Future Theme #3-JeKuA9pM0H0.mp3; Failed to open '/home/supercolbat/Music/Battle Cats Music - Into The Future Theme #3-JeKuA9pM0H0.mp3': No such file or directory
+Jul 07 11:57 : player: played "Battle Cats Music - Into The Future Theme #3-JeKuA9pM0H0.mp3"
+Jul 07 11:57 : exception: Failed to decode /home/supercolbat/Music/Battle Cats Music - Ending Theme-jf2nSwZn-aE.mp3; Failed to open '/home/supercolbat/Music/Battle Cats Music - Ending Theme-jf2nSwZn-aE.mp3': No such file or directory
+Jul 07 11:57 : player: played "Battle Cats Music - Ending Theme-jf2nSwZn-aE.mp3"
+Jul 07 11:58 : update: removing Battle Cats Music - Battle Theme #2-u8UtG2mG0ns.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Battle Theme #1 Default-JURtuwD9TsU.mp3
+Jul 07 11:58 : update: removing Ajoura - The SCP Foundation Main Theme-YJaeH8ffl_M.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Cats of the Cosmos Theme #3-Q3zRS5yip5s.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Cats of the Cosmos Theme #2-WT794ONnJK8.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Cats of the Cosmos Theme #1-GMSQ0BQ2au4.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Catclaw Dojo-H4wKJgXCncs.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Battle Theme #8 Challenge Mode-uvvx0_6wpuo.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Battle Theme #7 O Fortuna-PmvjYXQufsk.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Battle Theme #6 Moon (Final Stage)-5yyyqU-Y7lA.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Battle Theme #5 Rush-slIeSefIsPU.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Battle Theme #4-Zd5lZALpfuM.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Battle Theme #3--NPqCu4DyAM.mp3
+Jul 07 11:58 : update: removing DJ Okawari - Flower Dance - 2010-AULG4MoYxQk.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Menu Theme-QHuBSUO75nA.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Main Theme-eMR2EHrv5dg.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Intro Theme-NRAbMFCRKPM.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Into The Future Theme #3-JeKuA9pM0H0.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Into The Future Theme #2-y9mVXRYEkv4.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Into The Future Theme #1-LZe7fJ44ZCg.mp3
+Jul 07 11:58 : update: updating /稲葉曇『ラグトレイン』Vo. 歌愛ユキ-UnIhRpIT7nc.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Gamatoto-CTX-cVIE5Mk.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Ending Theme-jf2nSwZn-aE.mp3
+Jul 07 11:58 : update: removing Battle Cats Music - Cats of the Cosmos Theme #4 The Big Bang (Final Stage)-D-vaRmzaGUo.mp3
+Jul 07 11:58 : update: removing TempleOS Hymn Risen (Remix) - Dave Eddy-IdYMA6hY_74.mp3
+Jul 07 11:58 : update: removing Superstitious Foundation (SCP original song)-6kj40pb4Os8.mp3
+Jul 07 11:58 : update: removing LEMMiNO - Cipher (BGM)-b0q5PR1xpA0.mp3
+Jul 07 11:58 : update: removing KillerBlood／The Black Case-SZ2lN3ac6WQ.mp3
+Jul 07 11:58 : update: updating /The Final Flash of Existence (SCP - Secret Laboratory Main Theme)-SCcb2bfJLBg.mp3
+Jul 07 11:58 : update: added /Ajoura - The SCP Foundation Main Theme.mp3
+Jul 07 11:58 : update: added /DJ Okawari - Flower Dance.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Menu Theme.mp3
+Jul 07 11:58 : update: added /LEMMiNO - Cipher.mp3
+Jul 07 11:58 : update: added /TempleOS Hymn Risen (Remix) - Dave Eddy.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Battle Theme #7 O Fortuna.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Battle Theme #6 Moon.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Battle Theme #5 Rush.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Battle Theme #4.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Battle Theme #3.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Battle Theme #2.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Battle Theme #1.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Battle Theme #8 Challenge Mode.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Catclaw Dojo.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Cats of the Cosmos Theme #1.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Cats of the Cosmos Theme #2.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Cats of the Cosmos Theme #3.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Cats of the Cosmos Theme #4 The Big Bang (Final Stage).mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Ending Theme.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Gamatoto-CTX.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Into The Future Theme #1.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Into The Future Theme #3.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Into The Future Theme #2.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Intro Theme.mp3
+Jul 07 11:58 : update: added /KillerBlood／The Black Case.mp3
+Jul 07 11:58 : update: added /Superstitious Foundation.mp3
+Jul 07 11:58 : update: added /Battle Cats Music - Main Theme.mp3
+Jul 07 12:35 : update: removing Battle Cats Music - Menu Theme.mp3
+Jul 07 12:35 : update: removing Battle Cats Music - Main Theme.mp3
+Jul 07 12:35 : update: removing Battle Cats Music - Intro Theme.mp3
+Jul 07 12:35 : update: removing Battle Cats Music - Gamatoto-CTX.mp3
+Jul 07 12:35 : update: removing 稲葉曇『ラグトレイン』Vo. 歌愛ユキ-UnIhRpIT7nc.mp3
+Jul 07 12:35 : update: removing The Final Flash of Existence (SCP - Secret Laboratory Main Theme)-SCcb2bfJLBg.mp3
+Jul 07 12:35 : update: added /The Final Flash of Existence.mp3
+Jul 07 12:35 : update: added /稲葉曇『ラグトレイン』Vo. 歌愛ユキ.mp3
+Jul 07 12:35 : update: added unprocessed/SCP-096 song (The Shy Guy) (jazz version)-hsYxdqz_j4w.mp3
+Jul 07 12:35 : update: added unprocessed/SCP-983 song (Birthday Monkey)-tiDWKvE0fuY.mp3
+Jul 07 12:35 : update: added unprocessed/SCP-173 song (The Sculpture)-ccyyTHwjNds.mp3
+Jul 07 12:35 : update: added unprocessed/SCP-106 song (The Old Man)-W_kd0Wpq4KE.mp3
+Jul 07 12:35 : update: added unprocessed/SCP-650 song (Black Statue)-OcEDfJskRIY.mp3
+Jul 07 12:35 : update: added unprocessed/SCP-096 song (The Shy Guy)-SEzJtjSSpqQ.mp3
+Jul 07 12:35 : update: added unprocessed/SCP-372 song (Peripheral Jumper)-qB6hZt32X8k.mp3
+Jul 07 12:35 : update: added unprocessed/SCP-207 song (Cola Bottle)-j5hM2lXFT3Q.mp3
+Jul 07 12:35 : update: added unprocessed/Disco Duck song-yA8QObVsgm8.mp3
+Jul 07 12:35 : update: added unprocessed/SCP-008 song (Zombie Plague)-wbVN-5Ckmg4.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 02. Rip & Tear-zZMg9ryeWOw.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 11. BFG Division-QHRuTYtSbJQ.mp3
+Jul 07 12:35 : update: added unprocessed/DOOM - Behind The Music Part 1-ua-f0ypVbPA.mp3
+Jul 07 12:35 : update: added unprocessed/DOOM - Behind The Music Part 2-1g-7-dFXOUU.mp3
+Jul 07 12:35 : update: added unprocessed/DOOM Soundtrack LIVE at The Game Awards 2016 (Crowd Cam)-hBbIa1qq_6M.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 30. Mastermind-XeYGdZSt5l0.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 03. At Doom's Gate-Jly9qp40rfw.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 26. SkullHacker-GfqcRQlFVpM.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 28. VEGA Core-9XYZXqOiNoM.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 17. Transistor Fist-GMmTrCnCMfI.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 22. Damnation-i6LeyX5ogwI.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 14. Harbinger-b2YG8DX0ees.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 19. Cyberdemon-eH9Xmq8-yOM.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 21. III. DAKHMA-Q5vwPeR3ckM.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 08. Flesh & Metal-VYVFXYEm_Mw.mp3
+Jul 07 12:35 : update: added unprocessed/Mick Gordon - 04. Rust, Dust & Guts-Bed8NPkVHRQ.mp3
+Jul 07 12:35 : update: added /SCP-001 song (Sheaf of Papers).mp3
+Jul 07 12:35 : update: added /SCP-005 song (Skeleton key).mp3
+Jul 07 12:35 : update: added /SCP-009 song (Red Ice).mp3
+Jul 07 12:35 : update: added /SCP-012 song (Bad composition) (Bossa nova version).mp3
+Jul 07 12:35 : update: added /SCP-038 song (The Everything Tree).mp3
+Jul 07 12:35 : update: added /SCP-131 song.mp3
+Jul 07 12:35 : update: added /SCP-457 song (Burning Man).mp3
+Jul 07 12:35 : update: added /タイニーリトル・アジアンタム.mp3
+Jul 07 12:36 : exception: Failed to access /home/supercolbat/Music/mpd: No such file or directory
+Jul 07 12:38 : avahi: Service 'Music Player @ stationx' successfully established.
+Jul 07 12:38 : exception: Failed to read mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 12:50 : avahi: Service 'Music Player @ stationx' successfully established.
+Jul 07 12:50 : exception: Failed to read mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 12:50 : exception: Failed to decode /home/supercolbat/Music/Ajoura - The SCP Foundation Main Theme.mp3; Failed to open '/home/supercolbat/Music/Ajoura - The SCP Foundation Main Theme.mp3': No such file or directory
+Jul 07 12:50 : player: played "Ajoura - The SCP Foundation Main Theme.mp3"
+Jul 07 12:51 : exception: Failed to decode /home/supercolbat/Music/Ajoura - The SCP Foundation Main Theme.mp3; Failed to open '/home/supercolbat/Music/Ajoura - The SCP Foundation Main Theme.mp3': No such file or directory
+Jul 07 12:51 : player: played "Ajoura - The SCP Foundation Main Theme.mp3"
+Jul 07 12:51 : avahi: Service 'Music Player @ stationx' successfully established.
+Jul 07 12:51 : update: added SCP Songs/Disco Duck.mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-001 song (Sheaf of Papers).mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-005 song (Skeleton key).mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-008 song (Zombie Plague).mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-009 song (Red Ice).mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-012 song (Bad composition) (Bossa nova version).mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-038 song (The Everything Tree).mp3
+Jul 07 12:51 : exception: Failed to read mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 12:51 : update: removing unprocessed/SCP-983 song (Birthday Monkey)-tiDWKvE0fuY.mp3
+Jul 07 12:51 : update: removing unprocessed/SCP-650 song (Black Statue)-OcEDfJskRIY.mp3
+Jul 07 12:51 : update: removing unprocessed/SCP-372 song (Peripheral Jumper)-qB6hZt32X8k.mp3
+Jul 07 12:51 : update: removing unprocessed/SCP-207 song (Cola Bottle)-j5hM2lXFT3Q.mp3
+Jul 07 12:51 : update: removing unprocessed/SCP-173 song (The Sculpture)-ccyyTHwjNds.mp3
+Jul 07 12:51 : update: removing unprocessed/SCP-106 song (The Old Man)-W_kd0Wpq4KE.mp3
+Jul 07 12:51 : update: removing unprocessed/SCP-096 song (The Shy Guy)-SEzJtjSSpqQ.mp3
+Jul 07 12:51 : update: removing unprocessed/SCP-096 song (The Shy Guy) (jazz version)-hsYxdqz_j4w.mp3
+Jul 07 12:51 : update: removing unprocessed/SCP-008 song (Zombie Plague)-wbVN-5Ckmg4.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 30. Mastermind-XeYGdZSt5l0.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 28. VEGA Core-9XYZXqOiNoM.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 26. SkullHacker-GfqcRQlFVpM.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 22. Damnation-i6LeyX5ogwI.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 21. III. DAKHMA-Q5vwPeR3ckM.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 19. Cyberdemon-eH9Xmq8-yOM.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 17. Transistor Fist-GMmTrCnCMfI.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 14. Harbinger-b2YG8DX0ees.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 11. BFG Division-QHRuTYtSbJQ.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 08. Flesh & Metal-VYVFXYEm_Mw.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 04. Rust, Dust & Guts-Bed8NPkVHRQ.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 03. At Doom's Gate-Jly9qp40rfw.mp3
+Jul 07 12:51 : update: removing unprocessed/Mick Gordon - 02. Rip & Tear-zZMg9ryeWOw.mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-096 song (The Shy Guy).mp3
+Jul 07 12:51 : update: removing unprocessed/DOOM Soundtrack LIVE at The Game Awards 2016 (Crowd Cam)-hBbIa1qq_6M.mp3
+Jul 07 12:51 : update: removing unprocessed/DOOM - Behind The Music Part 2-1g-7-dFXOUU.mp3
+Jul 07 12:51 : update: removing unprocessed/DOOM - Behind The Music Part 1-ua-f0ypVbPA.mp3
+Jul 07 12:51 : update: removing unprocessed/Disco Duck song-yA8QObVsgm8.mp3
+Jul 07 12:51 : update: removing タイニーリトル・アジアンタム.mp3
+Jul 07 12:51 : update: removing 稲葉曇『ラグトレイン』Vo. 歌愛ユキ.mp3
+Jul 07 12:51 : update: removing The Final Flash of Existence.mp3
+Jul 07 12:51 : update: removing TempleOS Hymn Risen (Remix) - Dave Eddy.mp3
+Jul 07 12:51 : update: removing Superstitious Foundation.mp3
+Jul 07 12:51 : update: removing SCP-457 song (Burning Man).mp3
+Jul 07 12:51 : update: removing SCP-131 song.mp3
+Jul 07 12:51 : update: removing SCP-038 song (The Everything Tree).mp3
+Jul 07 12:51 : update: removing SCP-012 song (Bad composition) (Bossa nova version).mp3
+Jul 07 12:51 : update: removing SCP-009 song (Red Ice).mp3
+Jul 07 12:51 : update: removing SCP-005 song (Skeleton key).mp3
+Jul 07 12:51 : update: removing SCP-001 song (Sheaf of Papers).mp3
+Jul 07 12:51 : update: removing LEMMiNO - Cipher.mp3
+Jul 07 12:51 : update: removing KillerBlood／The Black Case.mp3
+Jul 07 12:51 : update: removing DJ Okawari - Flower Dance.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Into The Future Theme #3.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Into The Future Theme #2.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Into The Future Theme #1.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Ending Theme.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Cats of the Cosmos Theme #4 The Big Bang (Final Stage).mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Cats of the Cosmos Theme #3.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Cats of the Cosmos Theme #2.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Cats of the Cosmos Theme #1.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Catclaw Dojo.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Battle Theme #8 Challenge Mode.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Battle Theme #7 O Fortuna.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Battle Theme #6 Moon.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Battle Theme #5 Rush.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Battle Theme #4.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Battle Theme #3.mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-096 song (The Shy Guy) (jazz version).mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Battle Theme #2.mp3
+Jul 07 12:51 : update: removing Battle Cats Music - Battle Theme #1.mp3
+Jul 07 12:51 : update: removing Ajoura - The SCP Foundation Main Theme.mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-106 song (The Old Man).mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-131 song.mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-173 song (The Sculpture).mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-207 song (Cola Bottle).mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-372 song (Peripheral Jumper).mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-457 song (Burning Man).mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-650 song (Black Statue).mp3
+Jul 07 12:51 : update: added SCP Songs/SCP-983 song (Birthday Monkey).mp3
+Jul 07 12:51 : update: added SCP Songs/Superstitious Foundation.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Battle Theme #1.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Battle Theme #2.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Battle Theme #3.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Battle Theme #4.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Battle Theme #5 Rush.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Battle Theme #6 Moon.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Battle Theme #7 O Fortuna.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Battle Theme #8 Challenge Mode.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Catclaw Dojo.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Cats of the Cosmos Theme #1.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Cats of the Cosmos Theme #2.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Cats of the Cosmos Theme #3.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Cats of the Cosmos Theme #4 The Big Bang (Final Stage).mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Ending Theme.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Into The Future Theme #1.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Into The Future Theme #2.mp3
+Jul 07 12:51 : update: added Battle Cats/Battle Cats Music - Into The Future Theme #3.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - At Doom's Gate.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - BFG Division.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - Cyberdemon.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - Damnation.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - Flesh & Metal.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - Harbinger.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - III. DAKHMA.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - Mastermind.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - Rip & Tear.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - Rust, Dust & Guts.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - SkullHacker.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - Transistor Fist.mp3
+Jul 07 12:51 : update: added DOOM/Mick Gordon - VEGA Core.mp3
+Jul 07 12:51 : update: added Instrumental/DJ Okawari - Flower Dance.mp3
+Jul 07 12:51 : update: added Instrumental/LEMMiNO - Cipher.mp3
+Jul 07 12:51 : update: added Instrumental/KillerBlood／The Black Case.mp3
+Jul 07 12:51 : update: added Instrumental/Ajoura - The SCP Foundation Main Theme.mp3
+Jul 07 12:51 : update: added Instrumental/The Final Flash of Existence.mp3
+Jul 07 12:51 : update: added Instrumental/TempleOS Hymn Risen (Remix) - Dave Eddy.mp3
+Jul 07 12:51 : update: added JP/タイニーリトル・アジアンタム.mp3
+Jul 07 12:51 : update: added JP/稲葉曇『ラグトレイン』Vo. 歌愛ユキ.mp3
+Jul 07 12:51 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 12:55 : player: played "Instrumental/Ajoura - The SCP Foundation Main Theme.mp3"
+Jul 07 12:56 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 12:59 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 13:01 : player: played "JP/タイニーリトル・アジアンタム.mp3"
+Jul 07 13:46 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 13:50 : player: played "JP/稲葉曇『ラグトレイン』Vo. 歌愛ユキ.mp3"
+Jul 07 13:57 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 13:58 : player: played "JP/稲葉曇『ラグトレイン』Vo. 歌愛ユキ.mp3"
+Jul 07 13:58 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 13:58 : player: played "Instrumental/The Final Flash of Existence.mp3"
+Jul 07 13:58 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 14:02 : player: played "Instrumental/LEMMiNO - Cipher.mp3"
+Jul 07 14:02 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 14:05 : player: played "Instrumental/LEMMiNO - Cipher.mp3"
+Jul 07 14:06 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 14:10 : player: played "Instrumental/LEMMiNO - Cipher.mp3"

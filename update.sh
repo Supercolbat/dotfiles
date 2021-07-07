@@ -23,7 +23,6 @@ WorkDir="$HOME/.dotfiles"
 #     $HOME/.zshrc
 Folders=(
     .config/alacritty
-
     .config/bspwm
     .config/dunst
     .config/nvim
@@ -31,7 +30,11 @@ Folders=(
     .config/polybar
     .config/rofi
     .config/sxhkd
+    .config/mpd
+    .config/ncmpcpp
     .oh-my-zsh
+    .doom.d
+    .emacs.d
     wallpapers
 )
 Files=(
@@ -82,3 +85,8 @@ for file in "${Files[@]}"; do
     echo "copying $HOME/$file to $WorkDir/$file"
     cp $HOME/$file $WorkDir/$file
 done
+
+
+echo "[-] Clearing out playlists"
+rm "$WORKDIR/.config/mpd/playlists/*"
+
