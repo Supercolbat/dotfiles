@@ -40,7 +40,7 @@ Any and all contributions are welcome!
 * **Text Editors:**
   * [Sublime Text 4](https://www.sublimetext.com)
   * [NeoVIM](https://github.com/neovim/neovim)
-  * [Doom EMACS](https://github.com/hlissner/doom-emacs)
+  * [Doom Emacs](https://github.com/hlissner/doom-emacs)
 * **Browsers**
   * Firefox
   * [Brave Browser](https://github.com/brave/brave-browser)
@@ -63,10 +63,10 @@ Any and all contributions are welcome!
 ## :camera: Screenshots
 
 ![screenshot of my current desktop](https://i.ibb.co/80mMhwH/image.png)
-NOTES:
-* the left round module on the workspace bar (bottom) has a 2-pixel gap
-* when you highlight an edge workspace, the rounded edge won't highlight because its a seperate module.
-* the mpd module looks really dumb when there is no song playing
+**Notes**:
+* The left round module on the workspace bar (bottom) has an annoying 2-pixel gap
+* When you highlight an edge workspace, the rounded edge won't highlight because its a seperate module.
+* The MPD module looks really dumb when there is no song playing
 
 ## 🔧 Installation
 
@@ -125,7 +125,7 @@ For **mpd** (music player daemon) to work, you have to put music in your \~/Musi
 * I tweaked it's rofi config a tiny bit to make it fit better with my desktop
 
 [polybar-themes](https://github.com/adi1090x/polybar-themes) (colorblocks)
-* I like how this theme looked, but there were a few things I didn't like about it. I ended up using this as inspiration and *mostly* (.config/polybar/scripts/rofi/\*.rasi) writing the bar from scratch.
+* I like how this theme looked, but there were a few things I didn't like about it. I ended up using this as inspiration and *mostly* (cough `.config/polybar/scripts/rofi/*.rasi` cough cough) writing the bar from scratch.
 
 [mf-dots](https://github.com/obliviousofcraps/mf-dots)
 * [reddit post](https://www.reddit.com/r/unixporn/comments/o9fa24/openbox_eww_not_again_its_pastel_once_more/)
@@ -138,8 +138,8 @@ The amazing people at [r/unixporn](https://www.reddit.com/r/unixporn)
 *more coming soon:tm: :P*
 
 # :memo: Notes
-
-* As of right now, the workspace module in polybar is... less than adequate. I've just been procrastinating on fixing it. I mean, why fix that when you can upload your dotfiles to Github write a whole README document (and a wiki)? The reason for the wiki is to organize information I'm trying to cram in here without cluttering it too much. Is it necessary? No. Is it cool? Probably.
+* I'm planning on using [Eww](https://github.com/elkowar/eww) to add a little bit more to my desktop
+* A wiki (don't ask) will probably come out soon:tm:, but it may take a while until I finally get around doing it.
 
 # TODO
 - [ ] comment **everything**
