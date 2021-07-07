@@ -86,6 +86,7 @@ for file in "${Files[@]}"; do
     cp $HOME/$file $WorkDir/$file
 done
 
+echo
 
 echo "[-] Clearing out playlists"
 rm "$WORKDIR/.config/mpd/playlists/*"

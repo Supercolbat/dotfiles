@@ -335,3 +335,12 @@ Jul 07 14:02 : exception: Failed to open mixer for 'ALSA Sound Card': no such mi
 Jul 07 14:05 : player: played "Instrumental/LEMMiNO - Cipher.mp3"
 Jul 07 14:06 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
 Jul 07 14:10 : player: played "Instrumental/LEMMiNO - Cipher.mp3"
+Jul 07 14:21 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 14:21 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 14:21 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 14:21 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 14:21 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 14:21 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 14:21 : exception: Failed to open mixer for 'ALSA Sound Card': no such mixer control: PCM
+Jul 07 14:22 : player: played "DOOM/Mick Gordon - At Doom's Gate.mp3"
+Jul 07 14:31 : player: played "DOOM/Mick Gordon - BFG Division.mp3"
