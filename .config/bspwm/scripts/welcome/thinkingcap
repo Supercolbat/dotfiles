@@ -1,0 +1,43 @@
+|
+|  123
+|  abc
+|   x
+| defgh
+|  456
+|_______
+
+n str
+1 123 = L1 C2
+2 abc = L2 C2
+3  x  = L3 C3
+4 def = L4 C1
+5 456 = L5 C2
+
+L = (LINES//2 - MAX_N//2) + n - (MAX_N%2)
+  = (7//2 - 5//2) + 3 - 1
+	= (3 - 2) + 3 - 1
+	= 1 + 3 - 1
+	= 4 - 1
+
+C = CHARS//2 - len(str)//2
+
+LINES, CHARS = 7, 7
+
+|
+|
+| hey
+|12345
+|
+|______
+
+n  str
+1  hey  = L C
+2 12345 = L C
+
+LINES, CHARS = 42, 88
+
+L = (LINES//2 - MAX_N//2) + n - (MAX_N%2)
+  = (3 - 1) + 2 - 1
+	= 2 + 2 - 1
+
+C = CHARS//2 - len(str)//2

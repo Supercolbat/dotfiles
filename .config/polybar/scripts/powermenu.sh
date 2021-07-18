@@ -66,6 +66,7 @@ case $chosen in
         if [[ $ans == "y" || $ans == "Y" ]]; then
             mpc -q pause
             amixer set Master mute
+            betterlockscreen -l dimblur
             systemctl suspend
         elif [[ $ans == "n" || $ans == "N" ]]; then
             exit 0

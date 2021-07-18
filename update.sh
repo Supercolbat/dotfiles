@@ -41,6 +41,9 @@ Files=(
     .fehbg
     .p10k.zsh
 )
+Clear=(
+    .config/bspwm/scripts/message
+)
 
 echo "[-] Clearing out repo folders"
 for folder in ${Folders[@]}; do
@@ -89,6 +92,12 @@ done
 
 echo
 
+echo "[-] Clearing out files"
+for file in ${Clear[@]}; do
+    echo "clearing $WorkDir/$file"
+    truncate -s 0 $WorkDir/$file
+done
+
 # ========================= #
 # = MPD specific commands = #
 # ========================= #
@@ -103,8 +112,8 @@ echo
 
 files=(log mpd.pid mpdstate sticker.sql)
 
-echo "[-] MPD: Resetting temporary MPD files"
+echo "[-] MPD: Clearing temporary MPD files"
 for file in ${files[@]}; do
     echo "clearing $WorkDir/.config/mpd/$file"
-    truncate -s 0 "$WorkDir/.config/mpd/$file"
+    truncate -s 0 $WorkDir/.config/mpd/$file
 done

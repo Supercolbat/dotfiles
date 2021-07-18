@@ -1,1 +1,22 @@
-%2Fhello
+{c}{B}⦃ Welcome back, Supercolbat! ⦄
+{r}{B}──────────────────────────────────────────────
+
+{g}{B}{U}Pyllet
+- python script that automatically converts -
+an image (color pallet form) into text (based on format)
+- vice versa would be cool -
+
+{g}{B}{U}NeoCSS
+- probably gonna be like scss or sass, -
+but... {I}more mine{w}
+
+{g}{B}{U}X.Py
+- {B}literally just rectangles that move -
+{B}across your terminal
+- simulated window manager in a terminal -
+
+
+╔═══════════════════════════════════════════╗
+║Run this command for a less broken prompt  ║
+║cat ~/.config/bspwm/scripts/welcome/message║
+╚═══════════════════════════════════════════╝
