@@ -35,7 +35,7 @@ class Colors:
 
     def __getitem__(self, key):
         return self.color_dict[key]
-        
+
 
 class Colorizer:
     def __init__(self, curses):

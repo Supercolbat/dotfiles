@@ -183,7 +183,7 @@ let g:airline_theme='minimalist'
 " ===================== "
 " lots of help from: https://github.com/neoclide/coc.nvim#example-vim-configuration
 
-let g:coc_global_extensions = ['coc-emmet', 'coc-css', 'coc-html', 'coc-json', 'coc-prettier', 'coc-python']
+let g:coc_global_extensions = ['coc-emmet', 'coc-css', 'coc-html', 'coc-json', 'coc-prettier', 'coc-python', 'coc-rust-analyzer']
 
 
 " Auto-complete on <tab>

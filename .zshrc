@@ -39,6 +39,16 @@ source $ZSH/oh-my-zsh.sh
 
 alias zshconfig="nvim ~/.zshrc"
 alias nvimconfig="nvim ~/.config/nvim/init.vim"
+alias ydlmp3="youtube-dl -x --audio-format mp3 --prefer-ffmpeg"
+
+# Exports to PATH
+# Flutter
+export PATH="$PATH:/home/supercolbat/src/flutter/bin"
+# Android
+export ANDROID_HOME=$HOME/android
+export PATH=$ANDROID_HOME/cmdline-tools/tools/bin/:$PATH
+export PATH=$ANDROID_HOME/emulator/:$PATH
+export PATH=$ANDROID_HOME/platform-tools/:$PATH
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
