@@ -142,6 +142,6 @@ The amazing people at [r/unixporn](https://www.reddit.com/r/unixporn)
 * A wiki (don't ask) will probably come out soon:tm:, but it may take a while until I finally get around doing it.
 
 # TODO
-- [ ] comment **everything**
+- [ ] document **everything**
 - [ ] `INSTALL.sh` script
 - [ ] stop procrastinating
