@@ -51,7 +51,6 @@ Any and all contributions are welcome!
 * **Fetch**:
   * [Neofetch](https://github.com/dylanaraps/neofetch)
   * [uwuFetch](https://github.com/TheDarkBug/uwufetch) :3
-    * has a better fedora logo than neofetch *and it's not because of the >ω<, it's because it fits better in my terminal* >:C
 * **Clocks**
   * [tty-clock](https://github.com/xorg62/tty-clock)
   * [peaclock](https://github.com/octobanana/peaclock)
