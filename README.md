@@ -98,10 +98,13 @@ curl -sL https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/bin/scrip
 # TODO: include nerd fonts
 ```
 
-Install Oh My ZSH + Powerlevel10k
+Install Oh My ZSH + Powerlevel10k + Plugins
 ```bash
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
 Copy the configs and folders
@@ -111,6 +114,15 @@ cd dotfiles
 cp -r .config/* ~/.config
 cp -r wallpapers ~
 ```
+
+#### Finishing NeoVIM setup
+First install VimPlug to support installing packages.
+```sh
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+```
+
+Once that finishes, launch NeoVIM and ignore the countless warnings. Execute `:PlugInstall` to install the required packages.
 
 #### Other steps
 For **mpd** (music player daemon) to work, you have to put music in your \~/Music directory. You can change where mpd will look by changing `music_directory` in `~/.config/mpd/mpd.conf`.
