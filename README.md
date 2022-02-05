@@ -7,11 +7,11 @@
     <img alt="Repo size" src="https://img.shields.io/github/repo-size/Supercolbat/dotfiles?style=flat-square&color=396d5a&labelColor=222">
 </p>
 <p align="center">  
-    <a href="#computer-system-information"><img alt="System Information" src="https://img.shields.io/badge/System%20Information-2f5f4d?style=for-the-badge" target="_blank"></a>
-    <a href="#camera-screenshots"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2f5f4d?style=for-the-badge" target="_blank"></a>
-    <a href="#-installation"><img alt="Information" src="https://img.shields.io/badge/Installation-2f5f4d?style=for-the-badge" target="_blank"></a>
-    <a href="#credits"><img alt="Notes" src="https://img.shields.io/badge/Notes-2f5f4d?style=for-the-badge" target="_blank"></a>
-    <a href="#memo-notes"><img alt="Notes" src="https://img.shields.io/badge/Notes-2f5f4d?style=for-the-badge" target="_blank"></a>
+    <a href="#computer-system-information"><img alt="System Information" src="https://img.shields.io/badge/System%20Information-2f5f4d?style=for-the-badge"></a>
+    <a href="#camera-screenshots"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2f5f4d?style=for-the-badge"></a>
+    <a href="#-installation"><img alt="Information" src="https://img.shields.io/badge/Installation-2f5f4d?style=for-the-badge"></a>
+    <a href="#credits"><img alt="Notes" src="https://img.shields.io/badge/Notes-2f5f4d?style=for-the-badge"></a>
+    <a href="#memo-notes"><img alt="Notes" src="https://img.shields.io/badge/Notes-2f5f4d?style=for-the-badge"></a>
 </p>
 
 Hello! These are the configs I use in my Fedora system. I've been taking [inspiration](#credits) from other people's setups and dotfiles and ended up producing this mess.
