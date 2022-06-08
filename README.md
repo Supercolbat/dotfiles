@@ -14,6 +14,8 @@
     <a href="#memo-notes"><img alt="Notes" src="https://img.shields.io/badge/Notes-2f5f4d?style=for-the-badge"></a>
 </p>
 
+### Notice: these configs are old now. I'm busy setting up a new Linux distro with a new set of configs (this time clean and readable!?)
+
 Hello! These are the configs I use in my Fedora system. I've been taking [inspiration](#credits) from other people's setups and dotfiles and ended up producing this mess.
 
 While I may not be the most creative or artistic person, I still enjoy the challenge of customizing my desktop. However, as my first rice, things are going to be a bit rusty.
