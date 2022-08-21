@@ -11,7 +11,7 @@
     <a href="#computer-system-information"><img alt="System Information" src="https://img.shields.io/badge/System%20Information-2f5f4d?style=for-the-badge"></a>
     <a href="#camera-screenshots"><img alt="Screenshots" src="https://img.shields.io/badge/Screenshots-2f5f4d?style=for-the-badge"></a>
     <a href="#-installation"><img alt="Information" src="https://img.shields.io/badge/Installation-2f5f4d?style=for-the-badge"></a>
-    <a href="#credits"><img alt="Notes" src="https://img.shields.io/badge/Notes-2f5f4d?style=for-the-badge"></a>
+    <a href="#credits"><img alt="Credits" src="https://img.shields.io/badge/Notes-2f5f4d?style=for-the-badge"></a>
     <a href="#memo-notes"><img alt="Notes" src="https://img.shields.io/badge/Notes-2f5f4d?style=for-the-badge"></a>
 </p>
 
