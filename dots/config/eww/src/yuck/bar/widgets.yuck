@@ -1,0 +1,122 @@
+;;  _               ;;
+;; | |_ ___  _ __   ;;
+;; | __/ _ \| '_ \  ;;
+;; | || (_) | |_) | ;;
+;;  \__\___/| .__/  ;;
+;;          |_|     ;;
+
+(defwidget launcher []
+	(box :class "launcher"
+		:orientation "v"
+		:space-evenly "false"
+		:valign "center"
+		(button :class "launcher-btn"
+			:onclick "rofi -show run"
+			(image :path "./assets/menu.svg"
+				:image-width 20
+				:image-height 20
+			)
+		)
+	)
+)
+
+;;                 _             ;; 
+;;   ___ ___ _ __ | |_ ___ _ __  ;; 
+;;  / __/ _ \ '_ \| __/ _ \ '__| ;;
+;; | (_|  __/ | | | ||  __/ |    ;; 
+;;  \___\___|_| |_|\__\___|_|    ;; 
+
+(defwidget workspaces []
+	(eventbox :class "workspaces"
+		:onscroll "./scripts/{}_desktop.sh"
+		(literal :content workspace)
+	)
+)
+(deflisten workspace "./scripts/get_workspaces.sh")
+
+;;  _           _   _                   ;;
+;; | |__   ___ | |_| |_ ___  _ __ ___   ;;
+;; | '_ \ / _ \| __| __/ _ \| '_ ` _ \  ;;
+;; | |_) | (_) | |_| || (_) | | | | | | ;;
+;; |_.__/ \___/ \__|\__\___/|_| |_| |_| ;;
+
+;; (defwidget panel [])
+
+;;(defwidget volume []
+;;	(eventbox :onscroll "./scripts/volume_{}.sh"
+;;		(scale :min 0
+;;			:max 101
+;;			:orientation "v"
+;;			:flipped true
+;;			:marks 10
+;;			:active true
+;;			:value vol
+;;			:onchange "pulsemixer --set-volume {}"
+;;		)
+;;	)
+;;)
+
+(defwidget time []
+	(box :orientation "v"
+		:valign "end"
+		hour
+		minute
+	)
+)
+
+;; (defwidget separator [])
+
+(defwidget power []
+	(box :class "powermenu"
+		:orientation "v"
+		:space-evenly "false"
+		(button :class "something" "lol")
+	)
+)
+
+
+;;  _                 ;;
+;; | |__   __ _ _ __  ;;
+;; | '_ \ / _` | '__| ;;
+;; | |_) | (_| | |    ;;
+;; |_.__/ \__,_|_|    ;;
+
+(defwidget top []
+	(box :class "bar-top"
+		:orientation "v"
+		:space-evenly "false"
+		:valign "start"
+		(launcher)
+	)
+)
+
+(defwidget center []
+	(box :orientation "v"
+		:space-evenly "false"
+		:valign "center"
+		(workspaces)
+	)
+)
+
+(defwidget bottom []
+	(box :orientation "v"
+		:space-evenly "false"
+		:valign "end"
+		;; (panel)
+		;; (volume)
+		(time)
+		;; (separator)
+		(power)
+	)
+)
+
+(defwidget bar []
+	(box :class "bar"
+		:orientation "v"
+;;		:valign "false"
+;;		:halign "false"
+		(top)
+		(center)
+		(bottom)
+	)
+)                                    

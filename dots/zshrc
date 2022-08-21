@@ -1,0 +1,30 @@
+# Powerlevel10k instant prompt. Should remain at the top of this file unless
+# there's some code that requires console input (which would go above this line).
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
+# Path to Oh My Zsh folder
+export ZSH="$HOME/.oh-my-zsh"
+
+# Set theme
+ZSH_THEME="powerlevel10k/powerlevel10k"
+
+# Choose plugins
+plugins=(git)
+ 
+source $ZSH/oh-my-zsh.sh
+
+# Environment variables
+export LANG=en_US.UTF-8
+export EDITOR="nvim"
+export ARCHFLAGS="-arch x86_64"
+export PATH="$HOME/.local/bin:$HOME/bin:$PATH"
+export GPG_TTY=$(tty)
+
+# Aliases
+
+
+# Start Powerlevel10k prompt
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+

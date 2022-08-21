@@ -1,0 +1,24 @@
+(defwindow bar
+	:monitor 0
+	:geometry (geometry :x "0%"
+						:y "0%"
+						:height "100%"
+						:width "50px")
+	:stacking "bg"
+	:windowtype "dock"
+	:wm-ignore false
+	(bar)
+)
+
+(defwindow calendar
+	:monitor 0
+	:geometry (geometry :x "70px"
+						:y "-1%"
+						:height "240px"
+						:width "250px"
+						:anchor "bottom left")
+	:stacking "fg"
+	:windowtype "dock"
+	:wm-ignore false
+	(cal)
+)

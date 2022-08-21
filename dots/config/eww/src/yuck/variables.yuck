@@ -1,0 +1,8 @@
+(defpoll hour :interval "1s"
+	"date '+%H'")
+
+(defpoll minute :interval "1s"
+	"date '+%M'")
+
+;; (defpoll vol :interval "1ms"
+;; 	"./scripts/get_volume.sh")
