@@ -104,7 +104,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 Copy the configs and folders
 ```bash
-git clone https://github.com/Supercolbat/dotfiles
+git clone --depth=1 https://github.com/Supercolbat/dotfiles
 cd dotfiles
 cp -r config/* ~/.config
 cp -r wallpapers ~
